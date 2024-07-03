@@ -1,0 +1,12 @@
+Criteria : 
+1 - Collecting Data
+2- Cleaning & transformation ( Data types - Errors - Duplicated - Validation )
+3- Data modeling - Query optimization if needed.
+3- DAX & measures " about 20 DAX functions :
+Build a full calendar
+5 Conditional Column 
+provide the Customers analysis and pattern of sales by month and quarters
+4- insights & analysis
+5- Visualization ( Colors & Creative Chart )
+6- backend functions in powerBI " Tooltibs - Drill down - Bookmarks - selections " 
+7-  PDF file with your recommenations to help the bussines to take a Decisions with more quality.
